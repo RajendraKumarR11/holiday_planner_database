@@ -1,0 +1,1001 @@
+City_ID,Tweet_Volume,Trend_Topic,Trend_ID
+boston,30599,John Havlicek,boston_johnhavlicek
+boston,,Charlie Coyle,boston_charliecoyle
+boston,132478,Haskins,boston_haskins
+boston,,RIP Hondo,boston_riphondo
+boston,,#bucciovertimechallenge,boston_bucciovertimechallenge
+boston,294766,#NFLDraft,boston_nfldraft
+boston,101774,Daniel Jones,boston_danieljones
+boston,300581,Giants,boston_giants
+boston,,Weymouth,boston_weymouth
+boston,,#AvengersEndame,boston_avengersendame
+boston,48083,Josh Allen,boston_joshallen
+boston,43360,Devin Bush,boston_devinbush
+boston,11832,Josh Jacobs,boston_joshjacobs
+boston,113689,Raiders,boston_raiders
+boston,11516,Montez Sweat,boston_montezsweat
+boston,16264,#HTTR,boston_httr
+boston,68605,#TaylorSwiftTONIGHT,boston_taylorswifttonight
+boston,67197,Redskins,boston_redskins
+boston,32152,Ed Oliver,boston_edoliver
+boston,,Hollywood Brown,boston_hollywoodbrown
+boston,,Jeffery Simmons,boston_jefferysimmons
+boston,70647,Kyler Murray,boston_kylermurray
+boston,76368,Steelers,boston_steelers
+boston,33222,Gettleman,boston_gettleman
+boston,49800,Rosen,boston_rosen
+boston,,Marquise Brown,boston_marquisebrown
+boston,18624,Dillard,boston_dillard
+boston,,Noah Fant,boston_noahfant
+boston,19250,Christian Wilkins,boston_christianwilkins
+boston,45453,Packers,boston_packers
+boston,60356,Lions,boston_lions
+boston,36436,Ravens,boston_ravens
+boston,16042,Rashan Gary,boston_rashangary
+boston,,Dexter Lawrence,boston_dexterlawrence
+boston,,Tytus Howard,boston_tytushoward
+boston,,Jawaan Taylor,boston_jawaantaylor
+boston,34292,Ferrell,boston_ferrell
+boston,40512,Nick Bosa,boston_nickbosa
+boston,28604,Greedy,boston_greedy
+boston,,Darnell Savage,boston_darnellsavage
+boston,14609,Metcalf,boston_metcalf
+boston,,Drew Lock,boston_drewlock
+boston,,Brian Burns,boston_brianburns
+boston,33572,Broncos,boston_broncos
+boston,154542,Taylor Swift,boston_taylorswift
+boston,13934,Green Bay,boston_greenbay
+boston,33779,Tyreek Hill,boston_tyreekhill
+boston,23847,Quinnen Williams,boston_quinnenwilliams
+boston,14702,#FlyEaglesFly,boston_flyeaglesfly
+boston,37607,#Supernatural,boston_supernatural
+newyorkcity,300581,Giants,newyorkcity_giants
+newyorkcity,101774,Daniel Jones,newyorkcity_danieljones
+newyorkcity,132478,Haskins,newyorkcity_haskins
+newyorkcity,33222,Gettleman,newyorkcity_gettleman
+newyorkcity,294766,#NFLDraft,newyorkcity_nfldraft
+newyorkcity,104637,Allen,newyorkcity_allen
+newyorkcity,,#AvengersEndame,newyorkcity_avengersendame
+newyorkcity,43360,Devin Bush,newyorkcity_devinbush
+newyorkcity,11832,Josh Jacobs,newyorkcity_joshjacobs
+newyorkcity,113689,Raiders,newyorkcity_raiders
+newyorkcity,11516,Montez Sweat,newyorkcity_montezsweat
+newyorkcity,16264,#HTTR,newyorkcity_httr
+newyorkcity,68605,#TaylorSwiftTONIGHT,newyorkcity_taylorswifttonight
+newyorkcity,67197,Redskins,newyorkcity_redskins
+newyorkcity,32152,Ed Oliver,newyorkcity_edoliver
+newyorkcity,,Hollywood Brown,newyorkcity_hollywoodbrown
+newyorkcity,,Jeffery Simmons,newyorkcity_jefferysimmons
+newyorkcity,70647,Kyler Murray,newyorkcity_kylermurray
+newyorkcity,76368,Steelers,newyorkcity_steelers
+newyorkcity,49800,Rosen,newyorkcity_rosen
+newyorkcity,,Marquise Brown,newyorkcity_marquisebrown
+newyorkcity,18624,Dillard,newyorkcity_dillard
+newyorkcity,,Noah Fant,newyorkcity_noahfant
+newyorkcity,19250,Christian Wilkins,newyorkcity_christianwilkins
+newyorkcity,45453,Packers,newyorkcity_packers
+newyorkcity,60356,Lions,newyorkcity_lions
+newyorkcity,30599,John Havlicek,newyorkcity_johnhavlicek
+newyorkcity,36436,Ravens,newyorkcity_ravens
+newyorkcity,16042,Rashan Gary,newyorkcity_rashangary
+newyorkcity,,Dexter Lawrence,newyorkcity_dexterlawrence
+newyorkcity,,Tytus Howard,newyorkcity_tytushoward
+newyorkcity,,Jawaan Taylor,newyorkcity_jawaantaylor
+newyorkcity,34292,Ferrell,newyorkcity_ferrell
+newyorkcity,40512,Nick Bosa,newyorkcity_nickbosa
+newyorkcity,14702,#FlyEaglesFly,newyorkcity_flyeaglesfly
+newyorkcity,28604,Greedy,newyorkcity_greedy
+newyorkcity,,Darnell Savage,newyorkcity_darnellsavage
+newyorkcity,14609,Metcalf,newyorkcity_metcalf
+newyorkcity,,Drew Lock,newyorkcity_drewlock
+newyorkcity,,Brian Burns,newyorkcity_brianburns
+newyorkcity,33572,Broncos,newyorkcity_broncos
+newyorkcity,154542,Taylor Swift,newyorkcity_taylorswift
+newyorkcity,,Charlie Coyle,newyorkcity_charliecoyle
+newyorkcity,13934,Green Bay,newyorkcity_greenbay
+newyorkcity,33779,Tyreek Hill,newyorkcity_tyreekhill
+newyorkcity,23847,Quinnen Williams,newyorkcity_quinnenwilliams
+newyorkcity,18461,Goodell,newyorkcity_goodell
+newyorkcity,56410,Jets,newyorkcity_jets
+newyorkcity,37607,#Supernatural,newyorkcity_supernatural
+newyorkcity,,#HereWeGo,newyorkcity_herewego
+miami,132478,Haskins,miami_haskins
+miami,25024,Dolphins,miami_dolphins
+miami,294766,#NFLDraft,miami_nfldraft
+miami,256833,#Endgame,miami_endgame
+miami,761203,#AvengersEndgame,miami_avengersendgame
+miami,637327,America,miami_america
+miami,199997,Dame,miami_dame
+miami,13217017,#BBMAsTopSocial,miami_bbmastopsocial
+miami,300581,Giants,miami_giants
+miami,101774,Daniel Jones,miami_danieljones
+miami,43360,Devin Bush,miami_devinbush
+miami,48083,Josh Allen,miami_joshallen
+miami,11832,Josh Jacobs,miami_joshjacobs
+miami,113689,Raiders,miami_raiders
+miami,11516,Montez Sweat,miami_montezsweat
+miami,16264,#HTTR,miami_httr
+miami,67197,Redskins,miami_redskins
+miami,32152,Ed Oliver,miami_edoliver
+miami,,Hollywood Brown,miami_hollywoodbrown
+miami,,Jeffery Simmons,miami_jefferysimmons
+miami,70647,Kyler Murray,miami_kylermurray
+miami,33222,Gettleman,miami_gettleman
+miami,76368,Steelers,miami_steelers
+miami,49800,Rosen,miami_rosen
+miami,,Marquise Brown,miami_marquisebrown
+miami,18624,Dillard,miami_dillard
+miami,,Noah Fant,miami_noahfant
+miami,19250,Christian Wilkins,miami_christianwilkins
+miami,45453,Packers,miami_packers
+miami,60356,Lions,miami_lions
+miami,30599,John Havlicek,miami_johnhavlicek
+miami,36436,Ravens,miami_ravens
+miami,16042,Rashan Gary,miami_rashangary
+miami,,Dexter Lawrence,miami_dexterlawrence
+miami,,Tytus Howard,miami_tytushoward
+miami,,Jawaan Taylor,miami_jawaantaylor
+miami,34292,Ferrell,miami_ferrell
+miami,40512,Nick Bosa,miami_nickbosa
+miami,,Brian Burns,miami_brianburns
+miami,,Darnell Savage,miami_darnellsavage
+miami,,Drew Lock,miami_drewlock
+miami,33572,Broncos,miami_broncos
+miami,14609,Metcalf,miami_metcalf
+miami,28604,Greedy,miami_greedy
+miami,154542,Taylor Swift,miami_taylorswift
+miami,,Charlie Coyle,miami_charliecoyle
+miami,13934,Green Bay,miami_greenbay
+miami,68605,#TaylorSwiftTONIGHT,miami_taylorswifttonight
+miami,14702,#FlyEaglesFly,miami_flyeaglesfly
+miami,37607,#Supernatural,miami_supernatural
+chicago,297853,#NFLDraft,chicago_nfldraft
+chicago,133587,Haskins,chicago_haskins
+chicago,43636,Devin Bush,chicago_devinbush
+chicago,303068,Giants,chicago_giants
+chicago,,#AvengersEndame,chicago_avengersendame
+chicago,16177,Rashan Gary,chicago_rashangary
+chicago,32302,Ed Oliver,chicago_edoliver
+chicago,102771,Daniel Jones,chicago_danieljones
+chicago,115450,Raiders,chicago_raiders
+chicago,48365,Josh Allen,chicago_joshallen
+chicago,12649,Josh Jacobs,chicago_joshjacobs
+chicago,11961,Montez Sweat,chicago_montezsweat
+chicago,16619,#HTTR,chicago_httr
+chicago,71816,#TaylorSwiftTONIGHT,chicago_taylorswifttonight
+chicago,68654,Redskins,chicago_redskins
+chicago,,Hollywood Brown,chicago_hollywoodbrown
+chicago,,Jeffery Simmons,chicago_jefferysimmons
+chicago,70934,Kyler Murray,chicago_kylermurray
+chicago,33455,Gettleman,chicago_gettleman
+chicago,50012,Rosen,chicago_rosen
+chicago,76865,Steelers,chicago_steelers
+chicago,,Marquise Brown,chicago_marquisebrown
+chicago,18957,Dillard,chicago_dillard
+chicago,31074,John Havlicek,chicago_johnhavlicek
+chicago,,Noah Fant,chicago_noahfant
+chicago,45817,Packers,chicago_packers
+chicago,19442,Christian Wilkins,chicago_christianwilkins
+chicago,60586,Lions,chicago_lions
+chicago,37721,Ravens,chicago_ravens
+chicago,,Dexter Lawrence,chicago_dexterlawrence
+chicago,,Jawaan Taylor,chicago_jawaantaylor
+chicago,,Tytus Howard,chicago_tytushoward
+chicago,34577,Ferrell,chicago_ferrell
+chicago,29120,Greedy,chicago_greedy
+chicago,,Drew Lock,chicago_drewlock
+chicago,40750,Nick Bosa,chicago_nickbosa
+chicago,14853,#FlyEaglesFly,chicago_flyeaglesfly
+chicago,14825,Metcalf,chicago_metcalf
+chicago,,Brian Burns,chicago_brianburns
+chicago,,Darnell Savage,chicago_darnellsavage
+chicago,155754,Taylor Swift,chicago_taylorswift
+chicago,33846,Broncos,chicago_broncos
+chicago,,Charlie Coyle,chicago_charliecoyle
+chicago,,Mississippi State,chicago_mississippistate
+chicago,33966,Tyreek Hill,chicago_tyreekhill
+chicago,14021,Green Bay,chicago_greenbay
+chicago,23943,Quinnen Williams,chicago_quinnenwilliams
+chicago,18555,Goodell,chicago_goodell
+chicago,56602,Jets,chicago_jets
+chicago,37853,#Supernatural,chicago_supernatural
+losangeles,297853,#NFLDraft,losangeles_nfldraft
+losangeles,12649,Josh Jacobs,losangeles_joshjacobs
+losangeles,133587,Haskins,losangeles_haskins
+losangeles,303068,Giants,losangeles_giants
+losangeles,102771,Daniel Jones,losangeles_danieljones
+losangeles,115450,Raiders,losangeles_raiders
+losangeles,,Hollywood Brown,losangeles_hollywoodbrown
+losangeles,48365,Josh Allen,losangeles_joshallen
+losangeles,11961,Montez Sweat,losangeles_montezsweat
+losangeles,,#AvengersEndame,losangeles_avengersendame
+losangeles,43636,Devin Bush,losangeles_devinbush
+losangeles,16619,#HTTR,losangeles_httr
+losangeles,71816,#TaylorSwiftTONIGHT,losangeles_taylorswifttonight
+losangeles,68654,Redskins,losangeles_redskins
+losangeles,32302,Ed Oliver,losangeles_edoliver
+losangeles,,Jeffery Simmons,losangeles_jefferysimmons
+losangeles,70934,Kyler Murray,losangeles_kylermurray
+losangeles,33455,Gettleman,losangeles_gettleman
+losangeles,50012,Rosen,losangeles_rosen
+losangeles,76865,Steelers,losangeles_steelers
+losangeles,,Marquise Brown,losangeles_marquisebrown
+losangeles,18957,Dillard,losangeles_dillard
+losangeles,45817,Packers,losangeles_packers
+losangeles,31074,John Havlicek,losangeles_johnhavlicek
+losangeles,,Noah Fant,losangeles_noahfant
+losangeles,19442,Christian Wilkins,losangeles_christianwilkins
+losangeles,60586,Lions,losangeles_lions
+losangeles,37721,Ravens,losangeles_ravens
+losangeles,,Dexter Lawrence,losangeles_dexterlawrence
+losangeles,16177,Rashan Gary,losangeles_rashangary
+losangeles,,Tytus Howard,losangeles_tytushoward
+losangeles,,Jawaan Taylor,losangeles_jawaantaylor
+losangeles,34577,Ferrell,losangeles_ferrell
+losangeles,29120,Greedy,losangeles_greedy
+losangeles,,Drew Lock,losangeles_drewlock
+losangeles,40750,Nick Bosa,losangeles_nickbosa
+losangeles,14853,#FlyEaglesFly,losangeles_flyeaglesfly
+losangeles,14825,Metcalf,losangeles_metcalf
+losangeles,,Brian Burns,losangeles_brianburns
+losangeles,,Darnell Savage,losangeles_darnellsavage
+losangeles,155754,Taylor Swift,losangeles_taylorswift
+losangeles,33846,Broncos,losangeles_broncos
+losangeles,,Charlie Coyle,losangeles_charliecoyle
+losangeles,,Mississippi State,losangeles_mississippistate
+losangeles,33966,Tyreek Hill,losangeles_tyreekhill
+losangeles,14021,Green Bay,losangeles_greenbay
+losangeles,23943,Quinnen Williams,losangeles_quinnenwilliams
+losangeles,18555,Goodell,losangeles_goodell
+losangeles,56602,Jets,losangeles_jets
+losangeles,37853,#Supernatural,losangeles_supernatural
+lasvegas,294766,#NFLDraft,lasvegas_nfldraft
+lasvegas,132478,Haskins,lasvegas_haskins
+lasvegas,113689,Raiders,lasvegas_raiders
+lasvegas,48083,Josh Allen,lasvegas_joshallen
+lasvegas,300581,Giants,lasvegas_giants
+lasvegas,49800,Rosen,lasvegas_rosen
+lasvegas,1269974,Endgame,lasvegas_endgame
+lasvegas,148220,NFL Draft,lasvegas_nfldraft
+lasvegas,949208,Biden,lasvegas_biden
+lasvegas,101774,Daniel Jones,lasvegas_danieljones
+lasvegas,,#AvengersEndame,lasvegas_avengersendame
+lasvegas,43360,Devin Bush,lasvegas_devinbush
+lasvegas,11832,Josh Jacobs,lasvegas_joshjacobs
+lasvegas,11516,Montez Sweat,lasvegas_montezsweat
+lasvegas,16264,#HTTR,lasvegas_httr
+lasvegas,68605,#TaylorSwiftTONIGHT,lasvegas_taylorswifttonight
+lasvegas,67197,Redskins,lasvegas_redskins
+lasvegas,32152,Ed Oliver,lasvegas_edoliver
+lasvegas,,Hollywood Brown,lasvegas_hollywoodbrown
+lasvegas,,Jeffery Simmons,lasvegas_jefferysimmons
+lasvegas,70647,Kyler Murray,lasvegas_kylermurray
+lasvegas,76368,Steelers,lasvegas_steelers
+lasvegas,33222,Gettleman,lasvegas_gettleman
+lasvegas,,Marquise Brown,lasvegas_marquisebrown
+lasvegas,18624,Dillard,lasvegas_dillard
+lasvegas,,Noah Fant,lasvegas_noahfant
+lasvegas,19250,Christian Wilkins,lasvegas_christianwilkins
+lasvegas,45453,Packers,lasvegas_packers
+lasvegas,30599,John Havlicek,lasvegas_johnhavlicek
+lasvegas,60356,Lions,lasvegas_lions
+lasvegas,36436,Ravens,lasvegas_ravens
+lasvegas,16042,Rashan Gary,lasvegas_rashangary
+lasvegas,,Dexter Lawrence,lasvegas_dexterlawrence
+lasvegas,,Tytus Howard,lasvegas_tytushoward
+lasvegas,,Jawaan Taylor,lasvegas_jawaantaylor
+lasvegas,34292,Ferrell,lasvegas_ferrell
+lasvegas,14702,#FlyEaglesFly,lasvegas_flyeaglesfly
+lasvegas,40512,Nick Bosa,lasvegas_nickbosa
+lasvegas,28604,Greedy,lasvegas_greedy
+lasvegas,,Darnell Savage,lasvegas_darnellsavage
+lasvegas,14609,Metcalf,lasvegas_metcalf
+lasvegas,,Drew Lock,lasvegas_drewlock
+lasvegas,,Brian Burns,lasvegas_brianburns
+lasvegas,33572,Broncos,lasvegas_broncos
+lasvegas,154542,Taylor Swift,lasvegas_taylorswift
+lasvegas,,Charlie Coyle,lasvegas_charliecoyle
+lasvegas,13934,Green Bay,lasvegas_greenbay
+lasvegas,33779,Tyreek Hill,lasvegas_tyreekhill
+lasvegas,23847,Quinnen Williams,lasvegas_quinnenwilliams
+lasvegas,37607,#Supernatural,lasvegas_supernatural
+washingtondc,132478,Haskins,washingtondc_haskins
+washingtondc,16264,#HTTR,washingtondc_httr
+washingtondc,300581,Giants,washingtondc_giants
+washingtondc,48083,Josh Allen,washingtondc_joshallen
+washingtondc,11073,#NFLDraft19,washingtondc_nfldraft19
+washingtondc,43360,Devin Bush,washingtondc_devinbush
+washingtondc,101774,Daniel Jones,washingtondc_danieljones
+washingtondc,,#AvengersEndame,washingtondc_avengersendame
+washingtondc,11832,Josh Jacobs,washingtondc_joshjacobs
+washingtondc,113689,Raiders,washingtondc_raiders
+washingtondc,11516,Montez Sweat,washingtondc_montezsweat
+washingtondc,68605,#TaylorSwiftTONIGHT,washingtondc_taylorswifttonight
+washingtondc,67197,Redskins,washingtondc_redskins
+washingtondc,32152,Ed Oliver,washingtondc_edoliver
+washingtondc,14156,#NFLDraftDay,washingtondc_nfldraftday
+washingtondc,,Hollywood Brown,washingtondc_hollywoodbrown
+washingtondc,,Jeffery Simmons,washingtondc_jefferysimmons
+washingtondc,70647,Kyler Murray,washingtondc_kylermurray
+washingtondc,76368,Steelers,washingtondc_steelers
+washingtondc,33222,Gettleman,washingtondc_gettleman
+washingtondc,49800,Rosen,washingtondc_rosen
+washingtondc,,Marquise Brown,washingtondc_marquisebrown
+washingtondc,18624,Dillard,washingtondc_dillard
+washingtondc,,Noah Fant,washingtondc_noahfant
+washingtondc,19250,Christian Wilkins,washingtondc_christianwilkins
+washingtondc,45453,Packers,washingtondc_packers
+washingtondc,60356,Lions,washingtondc_lions
+washingtondc,30599,John Havlicek,washingtondc_johnhavlicek
+washingtondc,36436,Ravens,washingtondc_ravens
+washingtondc,16042,Rashan Gary,washingtondc_rashangary
+washingtondc,,Dexter Lawrence,washingtondc_dexterlawrence
+washingtondc,,Tytus Howard,washingtondc_tytushoward
+washingtondc,,Jawaan Taylor,washingtondc_jawaantaylor
+washingtondc,34292,Ferrell,washingtondc_ferrell
+washingtondc,40512,Nick Bosa,washingtondc_nickbosa
+washingtondc,28604,Greedy,washingtondc_greedy
+washingtondc,14609,Metcalf,washingtondc_metcalf
+washingtondc,,Darnell Savage,washingtondc_darnellsavage
+washingtondc,,Drew Lock,washingtondc_drewlock
+washingtondc,,Brian Burns,washingtondc_brianburns
+washingtondc,33572,Broncos,washingtondc_broncos
+washingtondc,154542,Taylor Swift,washingtondc_taylorswift
+washingtondc,,Charlie Coyle,washingtondc_charliecoyle
+washingtondc,13934,Green Bay,washingtondc_greenbay
+washingtondc,33779,Tyreek Hill,washingtondc_tyreekhill
+washingtondc,23847,Quinnen Williams,washingtondc_quinnenwilliams
+washingtondc,18461,Goodell,washingtondc_goodell
+washingtondc,14702,#FlyEaglesFly,washingtondc_flyeaglesfly
+washingtondc,37607,#Supernatural,washingtondc_supernatural
+washingtondc,,#HereWeGo,washingtondc_herewego
+denver,,Noah Fant,denver_noahfant
+denver,294766,#NFLDraft,denver_nfldraft
+denver,132478,Haskins,denver_haskins
+denver,33572,Broncos,denver_broncos
+denver,76368,Steelers,denver_steelers
+denver,101774,Daniel Jones,denver_danieljones
+denver,,Elway,denver_elway
+denver,43360,Devin Bush,denver_devinbush
+denver,113689,Raiders,denver_raiders
+denver,300581,Giants,denver_giants
+denver,,#AvengersEndame,denver_avengersendame
+denver,48083,Josh Allen,denver_joshallen
+denver,11832,Josh Jacobs,denver_joshjacobs
+denver,11516,Montez Sweat,denver_montezsweat
+denver,16264,#HTTR,denver_httr
+denver,68605,#TaylorSwiftTONIGHT,denver_taylorswifttonight
+denver,67197,Redskins,denver_redskins
+denver,32152,Ed Oliver,denver_edoliver
+denver,,Hollywood Brown,denver_hollywoodbrown
+denver,,Jeffery Simmons,denver_jefferysimmons
+denver,70647,Kyler Murray,denver_kylermurray
+denver,33222,Gettleman,denver_gettleman
+denver,49800,Rosen,denver_rosen
+denver,,Marquise Brown,denver_marquisebrown
+denver,18624,Dillard,denver_dillard
+denver,19250,Christian Wilkins,denver_christianwilkins
+denver,45453,Packers,denver_packers
+denver,60356,Lions,denver_lions
+denver,30599,John Havlicek,denver_johnhavlicek
+denver,36436,Ravens,denver_ravens
+denver,16042,Rashan Gary,denver_rashangary
+denver,,Dexter Lawrence,denver_dexterlawrence
+denver,,Tytus Howard,denver_tytushoward
+denver,,Jawaan Taylor,denver_jawaantaylor
+denver,34292,Ferrell,denver_ferrell
+denver,14702,#FlyEaglesFly,denver_flyeaglesfly
+denver,40512,Nick Bosa,denver_nickbosa
+denver,28604,Greedy,denver_greedy
+denver,14609,Metcalf,denver_metcalf
+denver,,Darnell Savage,denver_darnellsavage
+denver,,Drew Lock,denver_drewlock
+denver,,Brian Burns,denver_brianburns
+denver,154542,Taylor Swift,denver_taylorswift
+denver,,Charlie Coyle,denver_charliecoyle
+denver,13934,Green Bay,denver_greenbay
+denver,33779,Tyreek Hill,denver_tyreekhill
+denver,23847,Quinnen Williams,denver_quinnenwilliams
+denver,18461,Goodell,denver_goodell
+denver,37607,#Supernatural,denver_supernatural
+denver,,#HereWeGo,denver_herewego
+atlanta,294766,#NFLDraft,atlanta_nfldraft
+atlanta,300581,Giants,atlanta_giants
+atlanta,132478,Haskins,atlanta_haskins
+atlanta,101774,Daniel Jones,atlanta_danieljones
+atlanta,17129,Falcons,atlanta_falcons
+atlanta,19250,Christian Wilkins,atlanta_christianwilkins
+atlanta,32152,Ed Oliver,atlanta_edoliver
+atlanta,11832,Josh Jacobs,atlanta_joshjacobs
+atlanta,,Chris Lindstrom,atlanta_chrislindstrom
+atlanta,43360,Devin Bush,atlanta_devinbush
+atlanta,,#AvengersEndame,atlanta_avengersendame
+atlanta,48083,Josh Allen,atlanta_joshallen
+atlanta,113689,Raiders,atlanta_raiders
+atlanta,11516,Montez Sweat,atlanta_montezsweat
+atlanta,16264,#HTTR,atlanta_httr
+atlanta,68605,#TaylorSwiftTONIGHT,atlanta_taylorswifttonight
+atlanta,67197,Redskins,atlanta_redskins
+atlanta,,Hollywood Brown,atlanta_hollywoodbrown
+atlanta,,Jeffery Simmons,atlanta_jefferysimmons
+atlanta,70647,Kyler Murray,atlanta_kylermurray
+atlanta,33222,Gettleman,atlanta_gettleman
+atlanta,76368,Steelers,atlanta_steelers
+atlanta,49800,Rosen,atlanta_rosen
+atlanta,,Marquise Brown,atlanta_marquisebrown
+atlanta,18624,Dillard,atlanta_dillard
+atlanta,,Noah Fant,atlanta_noahfant
+atlanta,45453,Packers,atlanta_packers
+atlanta,60356,Lions,atlanta_lions
+atlanta,30599,John Havlicek,atlanta_johnhavlicek
+atlanta,36436,Ravens,atlanta_ravens
+atlanta,16042,Rashan Gary,atlanta_rashangary
+atlanta,,Dexter Lawrence,atlanta_dexterlawrence
+atlanta,,Tytus Howard,atlanta_tytushoward
+atlanta,,Jawaan Taylor,atlanta_jawaantaylor
+atlanta,34292,Ferrell,atlanta_ferrell
+atlanta,40512,Nick Bosa,atlanta_nickbosa
+atlanta,14702,#FlyEaglesFly,atlanta_flyeaglesfly
+atlanta,,Darnell Savage,atlanta_darnellsavage
+atlanta,,Drew Lock,atlanta_drewlock
+atlanta,,Brian Burns,atlanta_brianburns
+atlanta,14609,Metcalf,atlanta_metcalf
+atlanta,33572,Broncos,atlanta_broncos
+atlanta,28604,Greedy,atlanta_greedy
+atlanta,154542,Taylor Swift,atlanta_taylorswift
+atlanta,,Charlie Coyle,atlanta_charliecoyle
+atlanta,13934,Green Bay,atlanta_greenbay
+atlanta,33779,Tyreek Hill,atlanta_tyreekhill
+atlanta,18461,Goodell,atlanta_goodell
+atlanta,23847,Quinnen Williams,atlanta_quinnenwilliams
+atlanta,37607,#Supernatural,atlanta_supernatural
+philadelphia,300581,Giants,philadelphia_giants
+philadelphia,12005,Andre Dillard,philadelphia_andredillard
+philadelphia,132478,Haskins,philadelphia_haskins
+philadelphia,294766,#NFLDraft,philadelphia_nfldraft
+philadelphia,101774,Daniel Jones,philadelphia_danieljones
+philadelphia,14702,#FlyEaglesFly,philadelphia_flyeaglesfly
+philadelphia,10572,#Eagles,philadelphia_eagles
+philadelphia,,Jason Peters,philadelphia_jasonpeters
+philadelphia,,#AvengersEndame,philadelphia_avengersendame
+philadelphia,48083,Josh Allen,philadelphia_joshallen
+philadelphia,43360,Devin Bush,philadelphia_devinbush
+philadelphia,11832,Josh Jacobs,philadelphia_joshjacobs
+philadelphia,113689,Raiders,philadelphia_raiders
+philadelphia,11516,Montez Sweat,philadelphia_montezsweat
+philadelphia,16264,#HTTR,philadelphia_httr
+philadelphia,67197,Redskins,philadelphia_redskins
+philadelphia,32152,Ed Oliver,philadelphia_edoliver
+philadelphia,,Hollywood Brown,philadelphia_hollywoodbrown
+philadelphia,,Jeffery Simmons,philadelphia_jefferysimmons
+philadelphia,70647,Kyler Murray,philadelphia_kylermurray
+philadelphia,76368,Steelers,philadelphia_steelers
+philadelphia,33222,Gettleman,philadelphia_gettleman
+philadelphia,49800,Rosen,philadelphia_rosen
+philadelphia,,Marquise Brown,philadelphia_marquisebrown
+philadelphia,,Noah Fant,philadelphia_noahfant
+philadelphia,19250,Christian Wilkins,philadelphia_christianwilkins
+philadelphia,45453,Packers,philadelphia_packers
+philadelphia,60356,Lions,philadelphia_lions
+philadelphia,30599,John Havlicek,philadelphia_johnhavlicek
+philadelphia,36436,Ravens,philadelphia_ravens
+philadelphia,16042,Rashan Gary,philadelphia_rashangary
+philadelphia,,Dexter Lawrence,philadelphia_dexterlawrence
+philadelphia,,Tytus Howard,philadelphia_tytushoward
+philadelphia,,Jawaan Taylor,philadelphia_jawaantaylor
+philadelphia,34292,Ferrell,philadelphia_ferrell
+philadelphia,40512,Nick Bosa,philadelphia_nickbosa
+philadelphia,,Darnell Savage,philadelphia_darnellsavage
+philadelphia,28604,Greedy,philadelphia_greedy
+philadelphia,14609,Metcalf,philadelphia_metcalf
+philadelphia,,Drew Lock,philadelphia_drewlock
+philadelphia,,Brian Burns,philadelphia_brianburns
+philadelphia,33572,Broncos,philadelphia_broncos
+philadelphia,154542,Taylor Swift,philadelphia_taylorswift
+philadelphia,,Charlie Coyle,philadelphia_charliecoyle
+philadelphia,13934,Green Bay,philadelphia_greenbay
+philadelphia,33779,Tyreek Hill,philadelphia_tyreekhill
+philadelphia,23847,Quinnen Williams,philadelphia_quinnenwilliams
+philadelphia,18461,Goodell,philadelphia_goodell
+philadelphia,68605,#TaylorSwiftTONIGHT,philadelphia_taylorswifttonight
+philadelphia,37607,#Supernatural,philadelphia_supernatural
+seattle,294766,#NFLDraft,seattle_nfldraft
+seattle,54978,Sweat,seattle_sweat
+seattle,300581,Giants,seattle_giants
+seattle,45453,Packers,seattle_packers
+seattle,12005,Andre Dillard,seattle_andredillard
+seattle,132478,Haskins,seattle_haskins
+seattle,101774,Daniel Jones,seattle_danieljones
+seattle,,#AvengersEndame,seattle_avengersendame
+seattle,48083,Josh Allen,seattle_joshallen
+seattle,43360,Devin Bush,seattle_devinbush
+seattle,11832,Josh Jacobs,seattle_joshjacobs
+seattle,113689,Raiders,seattle_raiders
+seattle,16264,#HTTR,seattle_httr
+seattle,68605,#TaylorSwiftTONIGHT,seattle_taylorswifttonight
+seattle,67197,Redskins,seattle_redskins
+seattle,32152,Ed Oliver,seattle_edoliver
+seattle,,Hollywood Brown,seattle_hollywoodbrown
+seattle,,Jeffery Simmons,seattle_jefferysimmons
+seattle,70647,Kyler Murray,seattle_kylermurray
+seattle,76368,Steelers,seattle_steelers
+seattle,33222,Gettleman,seattle_gettleman
+seattle,49800,Rosen,seattle_rosen
+seattle,,Marquise Brown,seattle_marquisebrown
+seattle,,Noah Fant,seattle_noahfant
+seattle,19250,Christian Wilkins,seattle_christianwilkins
+seattle,30599,John Havlicek,seattle_johnhavlicek
+seattle,60356,Lions,seattle_lions
+seattle,36436,Ravens,seattle_ravens
+seattle,16042,Rashan Gary,seattle_rashangary
+seattle,,Dexter Lawrence,seattle_dexterlawrence
+seattle,,Tytus Howard,seattle_tytushoward
+seattle,,Jawaan Taylor,seattle_jawaantaylor
+seattle,34292,Ferrell,seattle_ferrell
+seattle,14702,#FlyEaglesFly,seattle_flyeaglesfly
+seattle,40512,Nick Bosa,seattle_nickbosa
+seattle,28604,Greedy,seattle_greedy
+seattle,,Darnell Savage,seattle_darnellsavage
+seattle,14609,Metcalf,seattle_metcalf
+seattle,,Drew Lock,seattle_drewlock
+seattle,,Brian Burns,seattle_brianburns
+seattle,33572,Broncos,seattle_broncos
+seattle,154542,Taylor Swift,seattle_taylorswift
+seattle,,Charlie Coyle,seattle_charliecoyle
+seattle,13934,Green Bay,seattle_greenbay
+seattle,33779,Tyreek Hill,seattle_tyreekhill
+seattle,23847,Quinnen Williams,seattle_quinnenwilliams
+seattle,18461,Goodell,seattle_goodell
+seattle,56410,Jets,seattle_jets
+seattle,37607,#Supernatural,seattle_supernatural
+seattle,,#HereWeGo,seattle_herewego
+neworleans,303068,Giants,neworleans_giants
+neworleans,764753,#AvengersEndgame,neworleans_avengersendgame
+neworleans,115450,Raiders,neworleans_raiders
+neworleans,297853,#NFLDraft,neworleans_nfldraft
+neworleans,133587,Haskins,neworleans_haskins
+neworleans,258126,#Endgame,neworleans_endgame
+neworleans,43636,Devin Bush,neworleans_devinbush
+neworleans,70934,Kyler Murray,neworleans_kylermurray
+neworleans,15851,Devin White,neworleans_devinwhite
+neworleans,164287,ESPN,neworleans_espn
+neworleans,102771,Daniel Jones,neworleans_danieljones
+neworleans,48365,Josh Allen,neworleans_joshallen
+neworleans,12649,Josh Jacobs,neworleans_joshjacobs
+neworleans,11961,Montez Sweat,neworleans_montezsweat
+neworleans,16619,#HTTR,neworleans_httr
+neworleans,71816,#TaylorSwiftTONIGHT,neworleans_taylorswifttonight
+neworleans,68654,Redskins,neworleans_redskins
+neworleans,32302,Ed Oliver,neworleans_edoliver
+neworleans,,Hollywood Brown,neworleans_hollywoodbrown
+neworleans,,Jeffery Simmons,neworleans_jefferysimmons
+neworleans,33455,Gettleman,neworleans_gettleman
+neworleans,50012,Rosen,neworleans_rosen
+neworleans,76865,Steelers,neworleans_steelers
+neworleans,,Marquise Brown,neworleans_marquisebrown
+neworleans,18957,Dillard,neworleans_dillard
+neworleans,45817,Packers,neworleans_packers
+neworleans,31074,John Havlicek,neworleans_johnhavlicek
+neworleans,,Noah Fant,neworleans_noahfant
+neworleans,60586,Lions,neworleans_lions
+neworleans,19442,Christian Wilkins,neworleans_christianwilkins
+neworleans,37721,Ravens,neworleans_ravens
+neworleans,,Dexter Lawrence,neworleans_dexterlawrence
+neworleans,16177,Rashan Gary,neworleans_rashangary
+neworleans,,Tytus Howard,neworleans_tytushoward
+neworleans,,Jawaan Taylor,neworleans_jawaantaylor
+neworleans,34577,Ferrell,neworleans_ferrell
+neworleans,29120,Greedy,neworleans_greedy
+neworleans,,Drew Lock,neworleans_drewlock
+neworleans,40750,Nick Bosa,neworleans_nickbosa
+neworleans,14825,Metcalf,neworleans_metcalf
+neworleans,,Brian Burns,neworleans_brianburns
+neworleans,,Darnell Savage,neworleans_darnellsavage
+neworleans,33846,Broncos,neworleans_broncos
+neworleans,155754,Taylor Swift,neworleans_taylorswift
+neworleans,,Charlie Coyle,neworleans_charliecoyle
+neworleans,,Mississippi State,neworleans_mississippistate
+neworleans,33966,Tyreek Hill,neworleans_tyreekhill
+neworleans,14021,Green Bay,neworleans_greenbay
+neworleans,14853,#FlyEaglesFly,neworleans_flyeaglesfly
+neworleans,37853,#Supernatural,neworleans_supernatural
+stlouis,,#WeAllBleedBlue,stlouis_weallbleedblue
+stlouis,297853,#NFLDraft,stlouis_nfldraft
+stlouis,764753,#AvengersEndgame,stlouis_avengersendgame
+stlouis,38772,Blues,stlouis_blues
+stlouis,,#bucciovertimechallenge,stlouis_bucciovertimechallenge
+stlouis,11556,St. Louis,stlouis_st.louis
+stlouis,,#NHLPlayoffs,stlouis_nhlplayoffs
+stlouis,133587,Haskins,stlouis_haskins
+stlouis,303068,Giants,stlouis_giants
+stlouis,102771,Daniel Jones,stlouis_danieljones
+stlouis,48365,Josh Allen,stlouis_joshallen
+stlouis,43636,Devin Bush,stlouis_devinbush
+stlouis,12649,Josh Jacobs,stlouis_joshjacobs
+stlouis,115450,Raiders,stlouis_raiders
+stlouis,11961,Montez Sweat,stlouis_montezsweat
+stlouis,68654,Redskins,stlouis_redskins
+stlouis,32302,Ed Oliver,stlouis_edoliver
+stlouis,,Hollywood Brown,stlouis_hollywoodbrown
+stlouis,,Jeffery Simmons,stlouis_jefferysimmons
+stlouis,70934,Kyler Murray,stlouis_kylermurray
+stlouis,33455,Gettleman,stlouis_gettleman
+stlouis,50012,Rosen,stlouis_rosen
+stlouis,76865,Steelers,stlouis_steelers
+stlouis,,Marquise Brown,stlouis_marquisebrown
+stlouis,18957,Dillard,stlouis_dillard
+stlouis,45817,Packers,stlouis_packers
+stlouis,31074,John Havlicek,stlouis_johnhavlicek
+stlouis,,Noah Fant,stlouis_noahfant
+stlouis,60586,Lions,stlouis_lions
+stlouis,19442,Christian Wilkins,stlouis_christianwilkins
+stlouis,37721,Ravens,stlouis_ravens
+stlouis,,Dexter Lawrence,stlouis_dexterlawrence
+stlouis,16177,Rashan Gary,stlouis_rashangary
+stlouis,,Tytus Howard,stlouis_tytushoward
+stlouis,,Jawaan Taylor,stlouis_jawaantaylor
+stlouis,34577,Ferrell,stlouis_ferrell
+stlouis,29120,Greedy,stlouis_greedy
+stlouis,,Drew Lock,stlouis_drewlock
+stlouis,40750,Nick Bosa,stlouis_nickbosa
+stlouis,14825,Metcalf,stlouis_metcalf
+stlouis,,Brian Burns,stlouis_brianburns
+stlouis,,Darnell Savage,stlouis_darnellsavage
+stlouis,33846,Broncos,stlouis_broncos
+stlouis,155754,Taylor Swift,stlouis_taylorswift
+stlouis,,Charlie Coyle,stlouis_charliecoyle
+stlouis,22932,#StanleyCup,stlouis_stanleycup
+stlouis,16619,#HTTR,stlouis_httr
+stlouis,71816,#TaylorSwiftTONIGHT,stlouis_taylorswifttonight
+stlouis,14853,#FlyEaglesFly,stlouis_flyeaglesfly
+stlouis,37853,#Supernatural,stlouis_supernatural
+honolulu,297853,#NFLDraft,honolulu_nfldraft
+honolulu,,#cheatershotel,honolulu_cheatershotel
+honolulu,1277060,Endgame,honolulu_endgame
+honolulu,,merrie monarch,honolulu_merriemonarch
+honolulu,,Trick Shot,honolulu_trickshot
+honolulu,,#HawaiiFB,honolulu_hawaiifb
+honolulu,7640953,#BBMAsTopSocial,honolulu_bbmastopsocial
+honolulu,949308,Avengers,honolulu_avengers
+honolulu,133587,Haskins,honolulu_haskins
+honolulu,303068,Giants,honolulu_giants
+honolulu,102771,Daniel Jones,honolulu_danieljones
+honolulu,48365,Josh Allen,honolulu_joshallen
+honolulu,43636,Devin Bush,honolulu_devinbush
+honolulu,12649,Josh Jacobs,honolulu_joshjacobs
+honolulu,115450,Raiders,honolulu_raiders
+honolulu,11961,Montez Sweat,honolulu_montezsweat
+honolulu,16619,#HTTR,honolulu_httr
+honolulu,68654,Redskins,honolulu_redskins
+honolulu,32302,Ed Oliver,honolulu_edoliver
+honolulu,,Hollywood Brown,honolulu_hollywoodbrown
+honolulu,,Jeffery Simmons,honolulu_jefferysimmons
+honolulu,70934,Kyler Murray,honolulu_kylermurray
+honolulu,33455,Gettleman,honolulu_gettleman
+honolulu,50012,Rosen,honolulu_rosen
+honolulu,76865,Steelers,honolulu_steelers
+honolulu,,Marquise Brown,honolulu_marquisebrown
+honolulu,18957,Dillard,honolulu_dillard
+honolulu,45817,Packers,honolulu_packers
+honolulu,31074,John Havlicek,honolulu_johnhavlicek
+honolulu,,Noah Fant,honolulu_noahfant
+honolulu,60586,Lions,honolulu_lions
+honolulu,19442,Christian Wilkins,honolulu_christianwilkins
+honolulu,37721,Ravens,honolulu_ravens
+honolulu,,Dexter Lawrence,honolulu_dexterlawrence
+honolulu,16177,Rashan Gary,honolulu_rashangary
+honolulu,,Tytus Howard,honolulu_tytushoward
+honolulu,,Jawaan Taylor,honolulu_jawaantaylor
+honolulu,34577,Ferrell,honolulu_ferrell
+honolulu,29120,Greedy,honolulu_greedy
+honolulu,,Drew Lock,honolulu_drewlock
+honolulu,40750,Nick Bosa,honolulu_nickbosa
+honolulu,14825,Metcalf,honolulu_metcalf
+honolulu,,Brian Burns,honolulu_brianburns
+honolulu,,Darnell Savage,honolulu_darnellsavage
+honolulu,33846,Broncos,honolulu_broncos
+honolulu,155754,Taylor Swift,honolulu_taylorswift
+honolulu,,Charlie Coyle,honolulu_charliecoyle
+honolulu,71816,#TaylorSwiftTONIGHT,honolulu_taylorswifttonight
+honolulu,14853,#FlyEaglesFly,honolulu_flyeaglesfly
+honolulu,37853,#Supernatural,honolulu_supernatural
+portland,297853,#NFLDraft,portland_nfldraft
+portland,303068,Giants,portland_giants
+portland,48365,Josh Allen,portland_joshallen
+portland,102771,Daniel Jones,portland_danieljones
+portland,48921,Spurs,portland_spurs
+portland,133587,Haskins,portland_haskins
+portland,70934,Kyler Murray,portland_kylermurray
+portland,40750,Nick Bosa,portland_nickbosa
+portland,115450,Raiders,portland_raiders
+portland,,#AvengersEndame,portland_avengersendame
+portland,43636,Devin Bush,portland_devinbush
+portland,12649,Josh Jacobs,portland_joshjacobs
+portland,11961,Montez Sweat,portland_montezsweat
+portland,16619,#HTTR,portland_httr
+portland,71816,#TaylorSwiftTONIGHT,portland_taylorswifttonight
+portland,68654,Redskins,portland_redskins
+portland,32302,Ed Oliver,portland_edoliver
+portland,,Hollywood Brown,portland_hollywoodbrown
+portland,,Jeffery Simmons,portland_jefferysimmons
+portland,33455,Gettleman,portland_gettleman
+portland,50012,Rosen,portland_rosen
+portland,76865,Steelers,portland_steelers
+portland,,Marquise Brown,portland_marquisebrown
+portland,18957,Dillard,portland_dillard
+portland,31074,John Havlicek,portland_johnhavlicek
+portland,,Noah Fant,portland_noahfant
+portland,45817,Packers,portland_packers
+portland,60586,Lions,portland_lions
+portland,19442,Christian Wilkins,portland_christianwilkins
+portland,37721,Ravens,portland_ravens
+portland,16177,Rashan Gary,portland_rashangary
+portland,,Dexter Lawrence,portland_dexterlawrence
+portland,,Jawaan Taylor,portland_jawaantaylor
+portland,,Tytus Howard,portland_tytushoward
+portland,34577,Ferrell,portland_ferrell
+portland,29120,Greedy,portland_greedy
+portland,,Drew Lock,portland_drewlock
+portland,14853,#FlyEaglesFly,portland_flyeaglesfly
+portland,14825,Metcalf,portland_metcalf
+portland,,Brian Burns,portland_brianburns
+portland,,Darnell Savage,portland_darnellsavage
+portland,155754,Taylor Swift,portland_taylorswift
+portland,33846,Broncos,portland_broncos
+portland,,Charlie Coyle,portland_charliecoyle
+portland,,Mississippi State,portland_mississippistate
+portland,33966,Tyreek Hill,portland_tyreekhill
+portland,14021,Green Bay,portland_greenbay
+portland,23943,Quinnen Williams,portland_quinnenwilliams
+portland,18555,Goodell,portland_goodell
+portland,37853,#Supernatural,portland_supernatural
+nashville,,Jeffery Simmons,nashville_jefferysimmons
+nashville,43636,Devin Bush,nashville_devinbush
+nashville,11190,#NFLDraft19,nashville_nfldraft19
+nashville,133587,Haskins,nashville_haskins
+nashville,19442,Christian Wilkins,nashville_christianwilkins
+nashville,25835,Titans,nashville_titans
+nashville,102771,Daniel Jones,nashville_danieljones
+nashville,303068,Giants,nashville_giants
+nashville,,#AvengersEndame,nashville_avengersendame
+nashville,48365,Josh Allen,nashville_joshallen
+nashville,115450,Raiders,nashville_raiders
+nashville,12649,Josh Jacobs,nashville_joshjacobs
+nashville,11961,Montez Sweat,nashville_montezsweat
+nashville,16619,#HTTR,nashville_httr
+nashville,71816,#TaylorSwiftTONIGHT,nashville_taylorswifttonight
+nashville,68654,Redskins,nashville_redskins
+nashville,32302,Ed Oliver,nashville_edoliver
+nashville,14247,#NFLDraftDay,nashville_nfldraftday
+nashville,,Hollywood Brown,nashville_hollywoodbrown
+nashville,70934,Kyler Murray,nashville_kylermurray
+nashville,33455,Gettleman,nashville_gettleman
+nashville,50012,Rosen,nashville_rosen
+nashville,76865,Steelers,nashville_steelers
+nashville,,Marquise Brown,nashville_marquisebrown
+nashville,18957,Dillard,nashville_dillard
+nashville,45817,Packers,nashville_packers
+nashville,31074,John Havlicek,nashville_johnhavlicek
+nashville,,Noah Fant,nashville_noahfant
+nashville,60586,Lions,nashville_lions
+nashville,37721,Ravens,nashville_ravens
+nashville,,Dexter Lawrence,nashville_dexterlawrence
+nashville,16177,Rashan Gary,nashville_rashangary
+nashville,,Tytus Howard,nashville_tytushoward
+nashville,,Jawaan Taylor,nashville_jawaantaylor
+nashville,34577,Ferrell,nashville_ferrell
+nashville,29120,Greedy,nashville_greedy
+nashville,,Drew Lock,nashville_drewlock
+nashville,40750,Nick Bosa,nashville_nickbosa
+nashville,14825,Metcalf,nashville_metcalf
+nashville,,Brian Burns,nashville_brianburns
+nashville,,Darnell Savage,nashville_darnellsavage
+nashville,33846,Broncos,nashville_broncos
+nashville,155754,Taylor Swift,nashville_taylorswift
+nashville,,Charlie Coyle,nashville_charliecoyle
+nashville,,Mississippi State,nashville_mississippistate
+nashville,33966,Tyreek Hill,nashville_tyreekhill
+nashville,14021,Green Bay,nashville_greenbay
+nashville,23943,Quinnen Williams,nashville_quinnenwilliams
+nashville,14853,#FlyEaglesFly,nashville_flyeaglesfly
+nashville,37853,#Supernatural,nashville_supernatural
+austin,13643,#GoSpursGo,austin_gospursgo
+austin,294766,#NFLDraft,austin_nfldraft
+austin,101774,Daniel Jones,austin_danieljones
+austin,132478,Haskins,austin_haskins
+austin,300581,Giants,austin_giants
+austin,43360,Devin Bush,austin_devinbush
+austin,,#AvengersEndame,austin_avengersendame
+austin,32152,Ed Oliver,austin_edoliver
+austin,48083,Josh Allen,austin_joshallen
+austin,11832,Josh Jacobs,austin_joshjacobs
+austin,113689,Raiders,austin_raiders
+austin,11516,Montez Sweat,austin_montezsweat
+austin,16264,#HTTR,austin_httr
+austin,68605,#TaylorSwiftTONIGHT,austin_taylorswifttonight
+austin,67197,Redskins,austin_redskins
+austin,,Hollywood Brown,austin_hollywoodbrown
+austin,,Jeffery Simmons,austin_jefferysimmons
+austin,70647,Kyler Murray,austin_kylermurray
+austin,33222,Gettleman,austin_gettleman
+austin,76368,Steelers,austin_steelers
+austin,49800,Rosen,austin_rosen
+austin,,Marquise Brown,austin_marquisebrown
+austin,18624,Dillard,austin_dillard
+austin,,Noah Fant,austin_noahfant
+austin,19250,Christian Wilkins,austin_christianwilkins
+austin,45453,Packers,austin_packers
+austin,60356,Lions,austin_lions
+austin,30599,John Havlicek,austin_johnhavlicek
+austin,36436,Ravens,austin_ravens
+austin,16042,Rashan Gary,austin_rashangary
+austin,,Dexter Lawrence,austin_dexterlawrence
+austin,,Tytus Howard,austin_tytushoward
+austin,,Jawaan Taylor,austin_jawaantaylor
+austin,34292,Ferrell,austin_ferrell
+austin,40512,Nick Bosa,austin_nickbosa
+austin,,Darnell Savage,austin_darnellsavage
+austin,,Drew Lock,austin_drewlock
+austin,,Brian Burns,austin_brianburns
+austin,14609,Metcalf,austin_metcalf
+austin,33572,Broncos,austin_broncos
+austin,28604,Greedy,austin_greedy
+austin,154542,Taylor Swift,austin_taylorswift
+austin,,Charlie Coyle,austin_charliecoyle
+austin,13934,Green Bay,austin_greenbay
+austin,33779,Tyreek Hill,austin_tyreekhill
+austin,18461,Goodell,austin_goodell
+austin,23847,Quinnen Williams,austin_quinnenwilliams
+austin,14702,#FlyEaglesFly,austin_flyeaglesfly
+austin,37607,#Supernatural,austin_supernatural
+austin,,#HereWeGo,austin_herewego
+sanfransisco,12649,Josh Jacobs,sanfransisco_joshjacobs
+sanfransisco,297853,#NFLDraft,sanfransisco_nfldraft
+sanfransisco,133587,Haskins,sanfransisco_haskins
+sanfransisco,102771,Daniel Jones,sanfransisco_danieljones
+sanfransisco,115450,Raiders,sanfransisco_raiders
+sanfransisco,40750,Nick Bosa,sanfransisco_nickbosa
+sanfransisco,43636,Devin Bush,sanfransisco_devinbush
+sanfransisco,10967,#RaiderNation,sanfransisco_raidernation
+sanfransisco,303068,Giants,sanfransisco_giants
+sanfransisco,,#AvengersEndame,sanfransisco_avengersendame
+sanfransisco,48365,Josh Allen,sanfransisco_joshallen
+sanfransisco,11961,Montez Sweat,sanfransisco_montezsweat
+sanfransisco,16619,#HTTR,sanfransisco_httr
+sanfransisco,71816,#TaylorSwiftTONIGHT,sanfransisco_taylorswifttonight
+sanfransisco,68654,Redskins,sanfransisco_redskins
+sanfransisco,32302,Ed Oliver,sanfransisco_edoliver
+sanfransisco,,Hollywood Brown,sanfransisco_hollywoodbrown
+sanfransisco,,Jeffery Simmons,sanfransisco_jefferysimmons
+sanfransisco,70934,Kyler Murray,sanfransisco_kylermurray
+sanfransisco,33455,Gettleman,sanfransisco_gettleman
+sanfransisco,50012,Rosen,sanfransisco_rosen
+sanfransisco,76865,Steelers,sanfransisco_steelers
+sanfransisco,,Marquise Brown,sanfransisco_marquisebrown
+sanfransisco,18957,Dillard,sanfransisco_dillard
+sanfransisco,31074,John Havlicek,sanfransisco_johnhavlicek
+sanfransisco,,Noah Fant,sanfransisco_noahfant
+sanfransisco,45817,Packers,sanfransisco_packers
+sanfransisco,60586,Lions,sanfransisco_lions
+sanfransisco,19442,Christian Wilkins,sanfransisco_christianwilkins
+sanfransisco,37721,Ravens,sanfransisco_ravens
+sanfransisco,16177,Rashan Gary,sanfransisco_rashangary
+sanfransisco,,Dexter Lawrence,sanfransisco_dexterlawrence
+sanfransisco,,Jawaan Taylor,sanfransisco_jawaantaylor
+sanfransisco,,Tytus Howard,sanfransisco_tytushoward
+sanfransisco,34577,Ferrell,sanfransisco_ferrell
+sanfransisco,29120,Greedy,sanfransisco_greedy
+sanfransisco,,Drew Lock,sanfransisco_drewlock
+sanfransisco,14825,Metcalf,sanfransisco_metcalf
+sanfransisco,,Brian Burns,sanfransisco_brianburns
+sanfransisco,,Darnell Savage,sanfransisco_darnellsavage
+sanfransisco,155754,Taylor Swift,sanfransisco_taylorswift
+sanfransisco,33846,Broncos,sanfransisco_broncos
+sanfransisco,,Charlie Coyle,sanfransisco_charliecoyle
+sanfransisco,,Mississippi State,sanfransisco_mississippistate
+sanfransisco,33966,Tyreek Hill,sanfransisco_tyreekhill
+sanfransisco,14021,Green Bay,sanfransisco_greenbay
+sanfransisco,23943,Quinnen Williams,sanfransisco_quinnenwilliams
+sanfransisco,18555,Goodell,sanfransisco_goodell
+sanfransisco,14853,#FlyEaglesFly,sanfransisco_flyeaglesfly
+sanfransisco,37853,#Supernatural,sanfransisco_supernatural
+sanantonio,25307,Game 7,sanantonio_game7
+sanantonio,,#AvengersEndame,sanantonio_avengersendame
+sanantonio,133587,Haskins,sanantonio_haskins
+sanantonio,297853,#NFLDraft,sanantonio_nfldraft
+sanantonio,,#bandfestival2019,sanantonio_bandfestival2019
+sanantonio,32302,Ed Oliver,sanantonio_edoliver
+sanantonio,303068,Giants,sanantonio_giants
+sanantonio,,Go Spurs Go,sanantonio_gospursgo
+sanantonio,,Jokic,sanantonio_jokic
+sanantonio,102771,Daniel Jones,sanantonio_danieljones
+sanantonio,48365,Josh Allen,sanantonio_joshallen
+sanantonio,43636,Devin Bush,sanantonio_devinbush
+sanantonio,115450,Raiders,sanantonio_raiders
+sanantonio,12649,Josh Jacobs,sanantonio_joshjacobs
+sanantonio,11961,Montez Sweat,sanantonio_montezsweat
+sanantonio,16619,#HTTR,sanantonio_httr
+sanantonio,71816,#TaylorSwiftTONIGHT,sanantonio_taylorswifttonight
+sanantonio,68654,Redskins,sanantonio_redskins
+sanantonio,,Hollywood Brown,sanantonio_hollywoodbrown
+sanantonio,,Jeffery Simmons,sanantonio_jefferysimmons
+sanantonio,70934,Kyler Murray,sanantonio_kylermurray
+sanantonio,33455,Gettleman,sanantonio_gettleman
+sanantonio,50012,Rosen,sanantonio_rosen
+sanantonio,76865,Steelers,sanantonio_steelers
+sanantonio,,Marquise Brown,sanantonio_marquisebrown
+sanantonio,18957,Dillard,sanantonio_dillard
+sanantonio,31074,John Havlicek,sanantonio_johnhavlicek
+sanantonio,,Noah Fant,sanantonio_noahfant
+sanantonio,45817,Packers,sanantonio_packers
+sanantonio,60586,Lions,sanantonio_lions
+sanantonio,19442,Christian Wilkins,sanantonio_christianwilkins
+sanantonio,37721,Ravens,sanantonio_ravens
+sanantonio,16177,Rashan Gary,sanantonio_rashangary
+sanantonio,,Dexter Lawrence,sanantonio_dexterlawrence
+sanantonio,,Jawaan Taylor,sanantonio_jawaantaylor
+sanantonio,,Tytus Howard,sanantonio_tytushoward
+sanantonio,34577,Ferrell,sanantonio_ferrell
+sanantonio,29120,Greedy,sanantonio_greedy
+sanantonio,,Drew Lock,sanantonio_drewlock
+sanantonio,40750,Nick Bosa,sanantonio_nickbosa
+sanantonio,14825,Metcalf,sanantonio_metcalf
+sanantonio,,Brian Burns,sanantonio_brianburns
+sanantonio,,Darnell Savage,sanantonio_darnellsavage
+sanantonio,155754,Taylor Swift,sanantonio_taylorswift
+sanantonio,33846,Broncos,sanantonio_broncos
+sanantonio,,Charlie Coyle,sanantonio_charliecoyle
+sanantonio,,Mississippi State,sanantonio_mississippistate
+sanantonio,33966,Tyreek Hill,sanantonio_tyreekhill
+sanantonio,14853,#FlyEaglesFly,sanantonio_flyeaglesfly
+sanantonio,37853,#Supernatural,sanantonio_supernatural
+orlando,132478,Haskins,orlando_haskins
+orlando,294766,#NFLDraft,orlando_nfldraft
+orlando,761203,#AvengersEndgame,orlando_avengersendgame
+orlando,256833,#Endgame,orlando_endgame
+orlando,180247,Facts,orlando_facts
+orlando,33241,Russ,orlando_russ
+orlando,1978837,Trump,orlando_trump
+orlando,13217017,#BBMAsTopSocial,orlando_bbmastopsocial
+orlando,300581,Giants,orlando_giants
+orlando,101774,Daniel Jones,orlando_danieljones
+orlando,48083,Josh Allen,orlando_joshallen
+orlando,43360,Devin Bush,orlando_devinbush
+orlando,11832,Josh Jacobs,orlando_joshjacobs
+orlando,113689,Raiders,orlando_raiders
+orlando,11516,Montez Sweat,orlando_montezsweat
+orlando,16264,#HTTR,orlando_httr
+orlando,67197,Redskins,orlando_redskins
+orlando,32152,Ed Oliver,orlando_edoliver
+orlando,,Hollywood Brown,orlando_hollywoodbrown
+orlando,,Jeffery Simmons,orlando_jefferysimmons
+orlando,70647,Kyler Murray,orlando_kylermurray
+orlando,76368,Steelers,orlando_steelers
+orlando,33222,Gettleman,orlando_gettleman
+orlando,49800,Rosen,orlando_rosen
+orlando,,Marquise Brown,orlando_marquisebrown
+orlando,18624,Dillard,orlando_dillard
+orlando,,Noah Fant,orlando_noahfant
+orlando,19250,Christian Wilkins,orlando_christianwilkins
+orlando,45453,Packers,orlando_packers
+orlando,30599,John Havlicek,orlando_johnhavlicek
+orlando,60356,Lions,orlando_lions
+orlando,36436,Ravens,orlando_ravens
+orlando,16042,Rashan Gary,orlando_rashangary
+orlando,,Dexter Lawrence,orlando_dexterlawrence
+orlando,,Tytus Howard,orlando_tytushoward
+orlando,,Jawaan Taylor,orlando_jawaantaylor
+orlando,34292,Ferrell,orlando_ferrell
+orlando,40512,Nick Bosa,orlando_nickbosa
+orlando,28604,Greedy,orlando_greedy
+orlando,,Darnell Savage,orlando_darnellsavage
+orlando,14609,Metcalf,orlando_metcalf
+orlando,,Drew Lock,orlando_drewlock
+orlando,,Brian Burns,orlando_brianburns
+orlando,33572,Broncos,orlando_broncos
+orlando,154542,Taylor Swift,orlando_taylorswift
+orlando,,Charlie Coyle,orlando_charliecoyle
+orlando,13934,Green Bay,orlando_greenbay
+orlando,68605,#TaylorSwiftTONIGHT,orlando_taylorswifttonight
+orlando,14702,#FlyEaglesFly,orlando_flyeaglesfly
+orlando,37607,#Supernatural,orlando_supernatural

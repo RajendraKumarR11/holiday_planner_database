@@ -1,0 +1,725 @@
+City_ID,City_Name,State_ID
+calais,Calais,maine
+houlton,Houlton,maine
+presqueisle,Presque Isle,maine
+barharbor,Bar Harbor,maine
+bangor,Bangor,maine
+waterville,Waterville,maine
+augusta,Augusta,maine
+lewiston,Lewiston,maine
+portland,Portland,maine
+salem,Salem,massachusetts
+newbedford,New Bedford,massachusetts
+boston,Boston,massachusetts
+newport,Newport,rhodeisland
+lowell,Lowell,massachusetts
+providence,Providence,rhodeisland
+manchester,Manchester,newhampshire
+concord,Concord,newhampshire
+worcester,Worcester,massachusetts
+newlondon,New London,connecticut
+montpelier,Montpelier,vermont
+springfield,Springfield,massachusetts
+hartford,Hartford,connecticut
+newhaven,New Haven,connecticut
+waterbury,Waterbury,connecticut
+bridgeport,Bridgeport,connecticut
+burlington,Burlington,vermont
+pittsfield,Pittsfield,massachusetts
+plattsburg,Plattsburg,newyork
+stamford,Stamford,connecticut
+saratogasprings,Saratoga Springs,newyork
+albany,Albany,newyork
+poughkeepsie,Poughkeepsie,newyork
+schenectady,Schenectady,newyork
+newyorkcity,New york City,newyork
+paterson,Paterson,newjersey
+newark,Newark,newjersey
+atlanticcity,Atlantic City,newjersey
+trenton,Trenton,newjersey
+philadelphia,Philadelphia,pennsylvania
+utica,Utica,newyork
+allentown,Allentown,pennsylvania
+dover,Dover,delaware
+wilmington,Wilmington,delaware
+scranton,Scranton,pennsylvania
+kittyhawk,Kitty Hawk,northcarolina
+wilkesbarre,Wilkes Barre,pennsylvania
+watertown,Watertown,newyork
+binghamton,Binghamton,newyork
+virginiabeach,Virginia Beach,virginia
+syracuse,Syracuse,newyork
+norfolk,Norfolk,virginia
+lancaster,Lancaster,pennsylvania
+hampton,Hampton,virginia
+annapolis,Annapolis,maryland
+ithaca,Ithaca,newyork
+baltimore,Baltimore,maryland
+york,York,pennsylvania
+elmira,Elmira,newyork
+harrisburg,Harrisburg,pennsylvania
+st.charles,St. Charles,maryland
+williamsport,Williamsport,pennsylvania
+"washington,d.c.","Washington, D.C.",districtofcolumbia
+alexandria,Alexandria,virginia
+greenville,Greenville,northcarolina
+petersburg,Petersburg,virginia
+jacksonville,Jacksonville,northcarolina
+richmond,Richmond,virginia
+fredericksburg,Fredericksburg,virginia
+rochester,Rochester,newyork
+hagerstown,Hagerstown,maryland
+rockymount,Rocky Mount,northcarolina
+statecollege,State College,pennsylvania
+goldsboro,Goldsboro,northcarolina
+winchester,Winchester,virginia
+altoona,Altoona,pennsylvania
+charlottesville,Charlottesville,virginia
+raleigh,Raleigh,northcarolina
+cumberland,Cumberland,maryland
+harrisonburg,Harrisonburg,virginia
+buffalo,Buffalo,newyork
+fayetteville,Fayetteville,northcarolina
+myrtlebeach,Myrtle Beach,southcarolina
+durham,Durham,northcarolina
+johnstown,Johnstown,pennsylvania
+lumberton,Lumberton,northcarolina
+niagarafalls,Niagara Falls,newyork
+lynchburg,Lynchburg,virginia
+jamestown,Jamestown,newyork
+danville,Danville,virginia
+florence,Florence,southcarolina
+greensboro,Greensboro,northcarolina
+roanoke,Roanoke,virginia
+morgantown,Morgantown,westvirginia
+charleston,Charleston,southcarolina
+pittsburgh,Pittsburgh,pennsylvania
+erie,Erie,pennsylvania
+westpalmbeach,West Palm Beach,florida
+miamibeach,Miami Beach,florida
+fortlauderdale,Fort Lauderdale,florida
+miami,Miami,florida
+winston-salem,Winston-Salem,northcarolina
+coralsprings,Coral Springs,florida
+coralgables,Coral Gables,florida
+whitesulphursprings,White Sulphur Springs,westvirginia
+beaverfalls,Beaver Falls,pennsylvania
+fortpierce,Fort Pierce,florida
+clarksburg,Clarksburg,westvirginia
+sumter,Sumter,southcarolina
+verobeach,Vero Beach,florida
+blacksburg,Blacksburg,virginia
+salisbury,Salisbury,northcarolina
+homestead,Homestead,florida
+melbourne,Melbourne,florida
+youngstown,Youngstown,ohio
+beaufort,Beaufort,southcarolina
+wheeling,Wheeling,westvirginia
+titusville,Titusville,florida
+charlotte,Charlotte,northcarolina
+orangeburg,Orangeburg,southcarolina
+columbia,Columbia,southcarolina
+daytonabeach,Daytona Beach,florida
+rockhill,Rock Hill,southcarolina
+savannah,Savannah,georgia
+beckley,Beckley,westvirginia
+palmcoast,Palm Coast,florida
+sanford,Sanford,florida
+st.augustine,St. Augustine,florida
+hickory,Hickory,northcarolina
+canton,Canton,ohio
+orlando,Orlando,florida
+kissimmee,Kissimmee,florida
+brunswick,Brunswick,georgia
+akron,Akron,ohio
+parkersburg,Parkersburg,westvirginia
+palatka,Palatka,florida
+cleveland,Cleveland,ohio
+aiken,Aiken,southcarolina
+winterhaven,Winter Haven,florida
+keywest,Key West,florida
+naples,Naples,florida
+ft.myers,Ft. Myers,florida
+leesburg,Leesburg,florida
+spartanburg,Spartanburg,southcarolina
+capecoral,Cape Coral,florida
+zanesville,Zanesville,ohio
+portcharlotte,Port Charlotte,florida
+ocala,Ocala,florida
+bristol,Bristol,virginia
+gainesville,Gainesville,florida
+johnsoncity,Johnson City,tennessee
+waycross,Waycross,georgia
+huntington,Huntington,westvirginia
+tampa,Tampa,florida
+mansfield,Mansfield,ohio
+sarasota,Sarasota,florida
+springhill,Spring Hill,florida
+asheville,Asheville,northcarolina
+kingsport,Kingsport,tennessee
+lakecity,Lake City,florida
+anderson,Anderson,southcarolina
+st.petersburg,St. Petersburg,florida
+douglas,Douglas,georgia
+dublin,Dublin,georgia
+columbus,Columbus,ohio
+detroit,Detroit,michigan
+valdosta,Valdosta,georgia
+pontiac,Pontiac,michigan
+athens,Athens,georgia
+alpena,Alpena,michigan
+toledo,Toledo,ohio
+macon,Macon,georgia
+bowlinggreen,Bowling Green,ohio
+flint,Flint,michigan
+annarbor,Ann Arbor,michigan
+baycity,Bay City,michigan
+knoxville,Knoxville,tennessee
+saginaw,Saginaw,michigan
+london,London,kentucky
+lima,Lima,ohio
+dayton,Dayton,ohio
+oakridge,Oak Ridge,tennessee
+tallahassee,Tallahassee,florida
+saultste.marie,Sault Ste. Marie,michigan
+atlanta,Atlanta,georgia
+cincinnati,Cincinnati,ohio
+lexington,Lexington,kentucky
+covington,Covington,kentucky
+marietta,Marietta,georgia
+lansing,Lansing,michigan
+frankfort,Frankfort,kentucky
+petoskey,Petoskey,michigan
+dalton,Dalton,georgia
+apalachicola,Apalachicola,florida
+lagrange,La Grange,georgia
+fortwayne,Fort Wayne,indiana
+battlecreek,Battle Creek,michigan
+chattanooga,Chattanooga,tennessee
+muncie,Muncie,indiana
+dothan,Dothan,alabama
+cadillac,Cadillac,michigan
+auburn,Auburn,alabama
+kalamazoo,Kalamazoo,michigan
+traversecity,Traverse City,michigan
+panamacity,Panama City,florida
+marion,Marion,indiana
+grandrapids,Grand Rapids,michigan
+louisville,Louisville,kentucky
+newalbany,New Albany,indiana
+enterprise,Enterprise,alabama
+elkhart,Elkhart,indiana
+gadsden,Gadsden,alabama
+kokomo,Kokomo,indiana
+indianapolis,Indianapolis,indiana
+muskegon,Muskegon,michigan
+southbend,South Bend,indiana
+montgomery,Montgomery,alabama
+murfreesboro,Murfreesboro,tennessee
+bentonharbor,Benton Harbor,michigan
+bloomington,Bloomington,indiana
+crestview,Crestview,florida
+huntsville,Huntsville,alabama
+nashville,Nashville,tennessee
+birmingham,Birmingham,alabama
+lafayette,Lafayette,indiana
+selma,Selma,alabama
+escanaba,Escanaba,michigan
+owensboro,Owensboro,kentucky
+pensacola,Pensacola,florida
+gary,Gary,indiana
+clarksville,Clarksville,tennessee
+marquette,Marquette,michigan
+terrehaute,Terre Haute,indiana
+hopkinsville,Hopkinsville,kentucky
+madisonville,Madisonville,kentucky
+tuscaloosa,Tuscaloosa,alabama
+evansville,Evansville,indiana
+marinette,Marinette,wisconsin
+evanston,Evanston,illinois
+sheboygan,Sheboygan,wisconsin
+chicago,Chicago,illinois
+racine,Racine,wisconsin
+waukegan,Waukegan,illinois
+kankakee,Kankakee,illinois
+milwaukee,Milwaukee,wisconsin
+greenbay,Green Bay,wisconsin
+mobile,Mobile,alabama
+ironmountain,Iron Mountain,michigan
+joliet,Joliet,illinois
+westbend,West Bend,wisconsin
+urbana,Urbana,illinois
+waukesha,Waukesha,wisconsin
+elgin,Elgin,illinois
+aurora,Aurora,illinois
+appleton,Appleton,wisconsin
+fonddulac,Fond du Lac,wisconsin
+oshkosh,Oshkosh,wisconsin
+hancock,Hancock,michigan
+paducah,Paducah,kentucky
+tupelo,Tupelo,mississippi
+meridian,Meridian,mississippi
+jackson,Jackson,tennessee
+biloxi,Biloxi,mississippi
+decatur,Decatur,illinois
+janesville,Janesville,wisconsin
+rockford,Rockford,illinois
+gulfport,Gulfport,mississippi
+laurel,Laurel,mississippi
+carbondale,Carbondale,illinois
+hattiesburg,Hattiesburg,mississippi
+madison,Madison,wisconsin
+rhinelander,Rhinelander,wisconsin
+capegirardeau,Cape Girardeau,illinois
+wausau,Wausau,wisconsin
+peoria,Peoria,illinois
+slidell,Slidell,louisiana
+barlett,Barlett,tennessee
+memphis,Memphis,tennessee
+belleville,Belleville,illinois
+southaven,Southaven,mississippi
+neworleans,New Orleans,louisiana
+metairie,Metairie,louisiana
+ironwood,Ironwood,michigan
+alton,Alton,illinois
+st.louis,St. Louis,missouri
+galesburg,Galesburg,illinois
+poplarbluff,Poplar Bluff,missouri
+paragould,Paragould,arkansas
+tomah,Tomah,wisconsin
+rockisland,Rock Island,illinois
+davenport,Davenport,iowa
+dubuque,Dubuque,iowa
+jonesboro,Jonesboro,arkansas
+houma,Houma,louisiana
+vicksburg,Vicksburg,mississippi
+batonrouge,Baton Rouge,louisiana
+lacrosse,La Crosse,wisconsin
+natchez,Natchez,mississippi
+quincy,Quincy,illinois
+eauclaire,Eau Claire,wisconsin
+iowacity,Iowa City,iowa
+winona,Winona,minnesota
+cedarrapids,Cedar Rapids,iowa
+newiberia,New Iberia,louisiana
+ely,Ely,minnesota
+pinebluff,Pine Bluff,arkansas
+superior,Superior,wisconsin
+duluth,Duluth,minnesota
+monroe,Monroe,louisiana
+jeffersoncity,Jefferson City,missouri
+littlerock,Little Rock,arkansas
+waterloo,Waterloo,iowa
+ottumwa,Ottumwa,iowa
+conway,Conway,arkansas
+virginia,Virginia,minnesota
+kirksville,Kirksville,missouri
+eldorado,El Dorado,arkansas
+hotsprings,Hot Springs,arkansas
+st.paul,St. Paul,minnesota
+masoncity,Mason City,iowa
+lakecharles,Lake Charles,louisiana
+lakeville,Lakeville,minnesota
+minneapolis,Minneapolis,minnesota
+faribault,Faribault,minnesota
+albertlea,Albert Lea,minnesota
+internationalfalls,International Falls,minnesota
+ames,Ames,iowa
+desmoines,Des Moines,iowa
+shreveport,Shreveport,louisiana
+portarthur,Port Arthur,texas
+mankato,Mankato,minnesota
+texarkana,Texarkana,arkansas
+beaumont,Beaumont,texas
+st.cloud,St. Cloud,minnesota
+ft.dodge,Ft. Dodge,iowa
+brainerd,Brainerd,minnesota
+fortsmith,Fort Smith,arkansas
+independence,Independence,missouri
+joplin,Joplin,missouri
+kansascity,Kansas City,missouri
+nacogdoches,Nacogdoches,texas
+lufkin,Lufkin,texas
+longview,Longview,texas
+galveston,Galveston,texas
+st.joseph,St. Joseph,missouri
+bemidji,Bemidji,minnesota
+texascity,Texas City,texas
+baytown,Baytown,texas
+willmar,Willmar,minnesota
+spencer,Spencer,iowa
+pasadena,Pasadena,texas
+lawrence,Lawrence,kansas
+tyler,Tyler,texas
+houston,Houston,texas
+freeport,Freeport,texas
+muskogee,Muskogee,oklahoma
+conroe,Conroe,texas
+coffeyville,Coffeyville,kansas
+topeka,Topeka,kansas
+mcalester,McAlester,oklahoma
+councilbluffs,Council Bluffs,iowa
+tulsa,Tulsa,oklahoma
+bartlesville,Bartlesville,oklahoma
+omaha,Omaha,nebraska
+emporia,Emporia,kansas
+bryan,Bryan,texas
+siouxcity,Sioux City,iowa
+manhattan,Manhattan,kansas
+crookston,Crookston,minnesota
+sherman,Sherman,texas
+portlavaca,Port Lavaca,texas
+lincoln,Lincoln,nebraska
+siouxfalls,Sioux Falls,southdakota
+moorhead,Moorhead,minnesota
+brookings,Brookings,southdakota
+fargo,Fargo,northdakota
+dallas,Dallas,texas
+shawnee,Shawnee,oklahoma
+victoria,Victoria,texas
+arlington,Arlington,texas
+grandforks,Grand Forks,northdakota
+stillwater,Stillwater,oklahoma
+poncacity,Ponca City,oklahoma
+denton,Denton,texas
+ardmore,Ardmore,oklahoma
+waco,Waco,texas
+wichita,Wichita,kansas
+ft.worth,Ft. Worth,texas
+norman,Norman,oklahoma
+temple,Temple,texas
+cleburne,Cleburne,texas
+yankton,Yankton,southdakota
+corpuschristi,Corpus Christi,texas
+brownsville,Brownsville,texas
+oklahomacity,Oklahoma City,oklahoma
+salina,Salina,kansas
+harlingen,Harlingen,texas
+killeen,Killeen,texas
+austin,Austin,texas
+beeville,Beeville,texas
+kingsville,Kingsville,texas
+enid,Enid,oklahoma
+hutchinson,Hutchinson,kansas
+sanmarcos,San Marcos,texas
+mitchell,Mitchell,southdakota
+alice,Alice,texas
+newbraunfels,New Braunfels,texas
+falfurrias,Falfurrias,texas
+edinburg,Edinburg,texas
+mcallen,McAllen,texas
+grandisland,Grand Island,nebraska
+lawton,Lawton,oklahoma
+aberdeen,Aberdeen,southdakota
+wichitafalls,Wichita Falls,texas
+sanantonio,San Antonio,texas
+devilslake,Devils Lake,northdakota
+brownwood,Brownwood,texas
+kearney,Kearney,nebraska
+vernon,Vernon,texas
+hays,Hays,kansas
+woodward,Woodward,oklahoma
+laredo,Laredo,texas
+abilene,Abilene,texas
+dodgecity,Dodge City,kansas
+childress,Childress,texas
+pierre,Pierre,southdakota
+mobridge,Mobridge,southdakota
+sanangelo,San Angelo,texas
+eaglepass,Eagle Pass,texas
+mccook,McCook,nebraska
+northplatte,North Platte,nebraska
+bismarck,Bismarck,northdakota
+gardencity,Garden City,kansas
+delrio,Del Rio,texas
+minot,Minot,northdakota
+bigspring,Big Spring,texas
+guymon,Guymon,oklahoma
+goodland,Goodland,kansas
+amarillo,Amarillo,texas
+lubbock,Lubbock,texas
+dumas,Dumas,texas
+midland,Midland,texas
+odessa,Odessa,texas
+hereford,Hereford,texas
+dalhart,Dalhart,texas
+lamar,Lamar,colorado
+dickinson,Dickinson,northdakota
+alliance,Alliance,nebraska
+fortstockton,Fort Stockton,texas
+sidney,Sidney,nebraska
+chadron,Chadron,nebraska
+hobbs,Hobbs,newmexico
+clovis,Clovis,newmexico
+rapidcity,Rapid City,southdakota
+pecos,Pecos,texas
+williston,Williston,northdakota
+scottsbluff,Scottsbluff,nebraska
+alpine,Alpine,texas
+tucumcari,Tucumcari,newmexico
+lead,Lead,southdakota
+carlsbad,Carlsbad,newmexico
+raton,Raton,newmexico
+trinidad,Trinidad,colorado
+roswell,Roswell,newmexico
+pueblo,Pueblo,colorado
+glendive,Glendive,montana
+greeley,Greeley,colorado
+coloradosprings,Colorado Springs,colorado
+cheyenne,Cheyenne,wyoming
+vanhorn,Van Horn,texas
+denver,Denver,colorado
+fortcollins,Fort Collins,colorado
+lasvegas,Las Vegas,newmexico
+boulder,Boulder,colorado
+gillette,Gillette,wyoming
+laramie,Laramie,wyoming
+milescity,Miles City,montana
+santafe,Santa Fe,newmexico
+alamogordo,Alamogordo,newmexico
+losalamos,Los Alamos,newmexico
+casper,Casper,wyoming
+elpaso,El Paso,texas
+glasgow,Glasgow,montana
+albuquerque,Albuquerque,newmexico
+lascruces,Las Cruces,newmexico
+socorro,Socorro,newmexico
+gunnison,Gunnison,colorado
+rawlins,Rawlins,wyoming
+truthorconsequences,Truth or Consequences,newmexico
+glenwoodsprings,Glenwood Springs,colorado
+craig,Craig,colorado
+hardin,Hardin,montana
+deming,Deming,newmexico
+montrose,Montrose,colorado
+durango,Durango,colorado
+farmington,Farmington,newmexico
+thermopolis,Thermopolis,wyoming
+riverton,Riverton,wyoming
+billings,Billings,montana
+grandjunction,Grand Junction,colorado
+lander,Lander,wyoming
+gallup,Gallup,newmexico
+powell,Powell,wyoming
+cody,Cody,wyoming
+monticello,Monticello,utah
+greenriver,Green River,wyoming
+vernal,Vernal,utah
+moab,Moab,utah
+havre,Havre,montana
+safford,Safford,arizona
+willcox,Willcox,arizona
+tombstone,Tombstone,arizona
+winslow,Winslow,arizona
+price,Price,utah
+tucson,Tucson,arizona
+bozeman,Bozeman,montana
+greatfalls,Great Falls,montana
+provo,Provo,utah
+flagstaff,Flagstaff,arizona
+mesa,Mesa,arizona
+casagrande,Casa Grande,arizona
+logan,Logan,utah
+nephi,Nephi,utah
+scottsdale,Scottsdale,arizona
+saltlakecity,Salt Lake City,utah
+ogden,Ogden,utah
+idahofalls,Idaho Falls,idaho
+helena,Helena,montana
+phoenix,Phoenix,arizona
+richfield,Richfield,utah
+grandcanyon,Grand Canyon,arizona
+glendale,Glendale,arizona
+pocatello,Pocatello,idaho
+prescott,Prescott,arizona
+kanab,Kanab,utah
+butte,Butte,montana
+dillon,Dillon,montana
+gilabend,Gila Bend,arizona
+parowan,Parowan,utah
+cedarcity,Cedar City,utah
+st.george,St. George,utah
+burley,Burley,idaho
+salmon,Salmon,idaho
+missoula,Missoula,montana
+kingman,Kingman,arizona
+polson,Polson,montana
+lakehavasucity,Lake Havasu City,arizona
+kalispell,Kalispell,montana
+twinfalls,Twin Falls,idaho
+bullheadcity,Bullhead City,arizona
+needles,Needles,california
+yuma,Yuma,arizona
+bouldercity,Boulder City,nevada
+elcentro,El Centro,california
+elko,Elko,nevada
+wallace,Wallace,idaho
+boise,Boise,idaho
+palmsprings,Palm Springs,california
+caldwell,Caldwell,idaho
+coeurd'alene,Coeur d'Alene,idaho
+ontario,Ontario,oregon
+barstow,Barstow,california
+nationalcity,National City,california
+sandiego,San Diego,california
+tonopah,Tonopah,nevada
+victorville,Victorville,california
+sanbernardino,San Bernardino,california
+oceanside,Oceanside,california
+riverside,Riverside,california
+spokane,Spokane,washington
+winnemucca,Winnemucca,nevada
+irvine,Irvine,california
+lagrande,La Grande,oregon
+longbeach,Long Beach,california
+losangeles,Los Angeles,california
+wallawalla,Walla Walla,washington
+bishop,Bishop,california
+pendleton,Pendleton,oregon
+johnday,John Day,oregon
+bakersfield,Bakersfield,california
+kennewick,Kennewick,washington
+delano,Delano,california
+richland,Richland,washington
+visalia,Visalia,california
+tulare,Tulare,california
+santabarbara,Santa Barbara,california
+carsoncity,Carson City,nevada
+fresno,Fresno,california
+reno,Reno,nevada
+wenatchee,Wenatchee,washington
+santamaria,Santa Maria,california
+merced,Merced,california
+yakima,Yakima,washington
+sanluisobispo,San Luis Obispo,california
+pasorobles,Paso Robles,california
+modesto,Modesto,california
+stockton,Stockton,california
+bend,Bend,oregon
+sacramento,Sacramento,california
+yubacity,Yuba City,california
+salinas,Salinas,california
+klamathfalls,Klamath Falls,oregon
+chico,Chico,california
+sanjose,San Jose,california
+monterey,Monterey,california
+santacruz,Santa Cruz,california
+everett,Everett,washington
+oakland,Oakland,california
+vallejo,Vallejo,california
+berkeley,Berkeley,california
+mt.shasta,Mt. Shasta,california
+sanmateo,San Mateo,california
+seattle,Seattle,washington
+redding,Redding,california
+sanfrancisco,San Francisco,california
+bellingham,Bellingham,washington
+tacoma,Tacoma,washington
+vancouver,Vancouver,washington
+bremerton,Bremerton,washington
+santarosa,Santa Rosa,california
+medford,Medford,oregon
+olympia,Olympia,washington
+centralia,Centralia,washington
+eugene,Eugene,oregon
+ukiah,Ukiah,california
+corvallis,Corvallis,oregon
+grantspass,Grants Pass,oregon
+roseburg,Roseburg,oregon
+mendocino,Mendocino,california
+astoria,Astoria,oregon
+tillamook,Tillamook,oregon
+arcata,Arcata,california
+eureka,Eureka,california
+crescentcity,Crescent City,california
+coosbay,Coos Bay,oregon
+ketchikan,Ketchikan,alaska
+wrangell,Wrangell,alaska
+hydaburg,Hydaburg,alaska
+juneau,Juneau,alaska
+skagway,Skagway,alaska
+sitka,Sitka,alaska
+hoonah,Hoonah,alaska
+yakutat,Yakutat,alaska
+eagle,Eagle,alaska
+tanacross,Tanacross,alaska
+kaktovik,Kaktovik,alaska
+circle,Circle,alaska
+fortyukon,Fort Yukon,alaska
+gulkana,Gulkana,alaska
+cordova,Cordova,alaska
+bigdelta,Big Delta,alaska
+valdez,Valdez,alaska
+fairbanks,Fairbanks,alaska
+prudhoebay,Prudhoe Bay,alaska
+whittier,Whittier,alaska
+denalipark,Denali Park,alaska
+cantwell,Cantwell,alaska
+nenana,Nenana,alaska
+palmer,Palmer,alaska
+wasilla,Wasilla,alaska
+seward,Seward,alaska
+anchorage,Anchorage,alaska
+montana,Montana,alaska
+wiseman,Wiseman,alaska
+talkeetna,Talkeetna,alaska
+kenai,Kenai,alaska
+homer,Homer,alaska
+tanana,Tanana,alaska
+lakeminchumina,Lake Minchumina,alaska
+kodiak,Kodiak,alaska
+allakaket,Allakaket,alaska
+hughes,Hughes,alaska
+karluk,Karluk,alaska
+newhalen,Newhalen,alaska
+hilo,Hilo,hawaii
+mcgrath,McGrath,alaska
+kailua-kona,Kailua-Kona,hawaii
+wailuku,Wailuku,hawaii
+kingsalmon,King Salmon,alaska
+barrow,Barrow,alaska
+kobuk,Kobuk,alaska
+galena,Galena,alaska
+reddevil,Red Devil,alaska
+atqasuk,Atqasuk,alaska
+pilotpoint,Pilot Point,alaska
+koyukuk,Koyukuk,alaska
+ambler,Ambler,alaska
+honolulu,Honolulu,hawaii
+wahiawa,Wahiawa,hawaii
+chignik,Chignik,alaska
+dillingham,Dillingham,alaska
+portheiden,Port Heiden,alaska
+kaltag,Kaltag,alaska
+perryville,Perryville,alaska
+lihue,Lihue,hawaii
+aniak,Aniak,alaska
+nyac,Nyac,alaska
+selawik,Selawik,alaska
+wainwright,Wainwright,alaska
+togiak,Togiak,alaska
+sandpoint,Sand Point,alaska
+unalakleet,Unalakleet,alaska
+koyuk,Koyuk,alaska
+goodnewsbay,Goodnews Bay,alaska
+bethel,Bethel,alaska
+quinhagak,Quinhagak,alaska
+kotzebue,Kotzebue,alaska
+coldbay,Cold Bay,alaska
+falsepass,False Pass,alaska
+kotlit,Kotlit,alaska
+mountainvillage,Mountain Village,alaska
+kivalina,Kivalina,alaska
+emmonak,Emmonak,alaska
+tununak,Tununak,alaska
+nome,Nome,alaska
+shishmaref,Shishmaref,alaska
+hooperbay,Hooper Bay,alaska
+mekoryuk,Mekoryuk,alaska
+teller,Teller,alaska
+unalaska,Unalaska,alaska
+pointhope,Point Hope,alaska
+wales,Wales,alaska
+nikolski,Nikolski,alaska
+gambell,Gambell,alaska
+atka,Atka,alaska

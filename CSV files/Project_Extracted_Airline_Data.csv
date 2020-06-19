@@ -1,0 +1,25 @@
+Airline_ID,Airline_Name,Food_And_Beverage_Rating,Inflight_Entertainment_Rating,Seat_Comfort_Rating,Staff_Service_Rating,Value_For_Money_Rating
+9E,Endeavor Air,N/A,N/A,N/A,N/A,N/A
+AA,American Airlines,2,2,2,2,2
+AQ,Aloha,N/A,N/A,N/A,N/A,N/A
+AS,Alaska Airlines,3,2,3,3,3
+B6,JetBlue Airways,3,3,3,3,3
+CO,Continental Airlines,N/A,N/A,N/A,N/A,N/A
+DH,Atlantic Coast Airlines,N/A,N/A,N/A,N/A,N/A
+DL,Delta Air Lines,3,3,3,3,3
+EV,Atlantic Southeast Airlines,N/A,N/A,N/A,N/A,N/A
+F9,Frontier,N/A,N/A,N/A,N/A,N/A
+FL,AirTran Airways,N/A,N/A,N/A,N/A,N/A
+HA,Hawaiian Airlines,3,2,3,3,3
+HP,America West Airlines,N/A,N/A,N/A,N/A,N/A
+MQ,American Eagle,3,1,3,3,3
+NW,Northwest Airlines,N/A,N/A,N/A,N/A,N/A
+OH,Comair,3,2,3,3,3
+OO,SkyWest Airlines,1,1,3,3,3
+RU,ExpressJet Airlines,N/A,N/A,N/A,N/A,N/A
+TZ,ATA Airlines,2,N/A,1,2,2
+UA,United Airlines,2,2,2,2,2
+US,US Airways,2,2,3,3,3
+WN,Southwest Airlines,3,2,3,3,3
+XE,ExpressJet Airlines,N/A,N/A,N/A,N/A,N/A
+YV,Mesa Airlines,N/A,N/A,N/A,N/A,N/A
